@@ -204,6 +204,6 @@ $ git push -u origin master
 
 ## Videocapture:
 
-[![screenshot](screenshot_004.png)](https://youtu.be/Qd1ufqEtRWw)
+[![screenshot](Selection_004.png)](https://youtu.be/Qd1ufqEtRWw)
 
 "*Good design adds value faster than it adds cost.*" - Thomas C. Gale
